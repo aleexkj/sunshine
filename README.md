@@ -1,0 +1,2 @@
+# sunshine
+Tauri + Nuxt playground
